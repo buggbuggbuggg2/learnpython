@@ -14,6 +14,13 @@ color = input("how about ur fave color?")
 my_fave = "green"
 
 if color.lower() == my_fave: 
-    print("yo me too! we r like twins!")
+    food = input("yo me too! we r like twins! what is your favorite food?")
 else: 
-    print("nice!")
+    food = input("nice! what is your favorite food?")
+
+if food == "toast":
+    print(f"{food}? that's bugg's fav too!!")
+else:
+    print(f"{food}? yum!")
+
+print("well thanks for chatting with me! that's all ive got!")
