@@ -1,7 +1,7 @@
 import random
 
 '''
-flesh and wire's orphic union, may you lift my veil and grant me what i need, not what i seek. 
+
 
 ⠀⠀⠀⠀⠀⠀         ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -17,7 +17,7 @@ flesh and wire's orphic union, may you lift my veil and grant me what i need, no
 
 ad astra per aspera!
 
-i entrust this machine to bestow upon me the knowledge of the cards.
+
 
 '''
 
