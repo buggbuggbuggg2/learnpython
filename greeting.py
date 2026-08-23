@@ -1,4 +1,3 @@
-
 name = input("wut is ur name?? ")
 
 age_input = input("how old r u?? ")
@@ -9,7 +8,7 @@ years_to_100 = 100 - age
 
 print(f"wuts up {name} ! u will turn 100 years old in {years_to_100} years!1!")
 
-color = input("how about ur fave color?")
+color = input("how about ur fave color? ")
 
 my_fave = "green"
 
