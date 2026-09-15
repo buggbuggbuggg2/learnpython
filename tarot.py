@@ -59,6 +59,7 @@ WHOLE_DECK = [
 
 while True:
     print("welcome to bugg's tarot deck!")
+    user_action = input("write your question now, or don't. just type something to continue").lower()
     user_action = input("type DRAW to draw, or q to quit: ").lower()
     
     if user_action == "q":
